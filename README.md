@@ -9,8 +9,7 @@ QQ群：774688083
 博客介绍：[https://www.youngxj.cn/577.html](https://www.youngxj.cn/577.html)
 
 #### 宝塔活动
-宝塔一键全能管理服务器，1分钱体验525.6元的插件，还有专业版奖励，立即一起来组队：[宝塔一分钱组团活动](https://www.bt.cn/team.html?MzY3MXp6)
-参与我的队伍更有机会获得3个月专业版哦。
+宝塔服务器面板，一键全能部署及管理，送你￥3188礼包，点我领取[点我领取](https://www.bt.cn/?invite_code=MV93YXNpa2I=)
 
 
 #### 软件架构
