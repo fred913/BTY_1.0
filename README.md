@@ -5,7 +5,7 @@
 该版本为开源、如需付费版请联系QQ1170535111
 我们尽可能为您提供最优质稳定的主机资源
 QQ群：774688083
-如果你觉得这个项目能够帮到你，欢迎fork和start
+如果你觉得这个项目能够帮到你，欢迎[fork和start](https://gitee.com/youngxj0/Bty1.0)
 博客介绍：[https://www.youngxj.cn/577.html](https://www.youngxj.cn/577.html)
 
 #### 宝塔活动
